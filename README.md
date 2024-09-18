@@ -18,7 +18,7 @@
   <h5>🖥️ Front-End Development Student. </h5>
   <h5>🎯 Focused on learning everything about Web Development to become a Pro.</h5>
   <h5>😍 Music and Eat.</h5>
-  <h5>👩‍💻 "She" | "Her" </h5> 
+  <h5>👩‍💻 "He" | "Him" </h5> 
 </samp>
  
  
