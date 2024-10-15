@@ -15,10 +15,9 @@
  </p>
   
 <samp>
-  <h5>🖥️ Front-End Development Student. </h5>
-  <h5>🎯 Focused on learning everything about Web Development to become a Pro.</h5>
-  <h5>😍 Music and Eat.</h5>
-  <h5>👩‍💻 "He" | "Him" </h5> 
+  <h5>🖥️ Big Data Enthusiast. </h5>
+  <h5>🎯 Focused on getting accepted to the University of British Columbia.</h5>
+  <h5>😍 Code and Eat.</h5>
 </samp>
  
  
