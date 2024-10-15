@@ -6,7 +6,7 @@
 <div align="left">
 <p> 
  <samp>
-   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, my name is Mario. 
+   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello! 
  </samp>
   <p> 
     
